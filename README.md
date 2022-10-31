@@ -22,6 +22,7 @@ This is a repository for anyone wishing to contribute to HacktoberFest 2022
 | Angular           | /Angular                       | `Angular`          | Projects, Learning Resources, etc.                     |
 | WebRTC            | /WebRTC                        | `WebRTC`           | Projects, Learning Resources, etc.                     |
 | Android / Flutter | /Android OR Flutter            | `Anddroid/Flutter` | Projects, Learning Resources, App Templates,etc.       |
+| Swift | /iOS            | `Swift` | Swift snippet, Learning Resources, App Templates,etc.       |
 
 ## Steps for Contribution after fork and 🌟 the repo
 
